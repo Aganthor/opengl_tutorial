@@ -1,11 +1,9 @@
 [package]
-name = "opengl_tutorial"
-version = "0.1.0"
-authors = ["Luc Bergeron <psyluche@gmail.com>"]
-edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+name="opengl_tutorial"
+version="0.1.0"
+authors=["Luc Bergeron <psyluche@gmail.com>"]
+edition="2018"
 
 [dependencies]
-sdl2 = "0.32.2"
-gl = "0.14.0"
+sdl2="0.32.2"
+gl="0.14.0"
